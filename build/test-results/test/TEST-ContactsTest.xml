@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContactsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-09T07:08:57" hostname="BLKHL7H3K3WH4.local" time="0.003">
+  <properties/>
+  <testcase name="testUpdateContactPhoneNumber" classname="ContactsTest" time="0.003"/>
+  <system-out><![CDATA[Enter name: Enter phone number: Enter the name of the contact to update: Enter new phone number: Contact 'Mathew' has been updated with new phone number: 0400456789
+Name: Mathew, Phone: 0400456789
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
